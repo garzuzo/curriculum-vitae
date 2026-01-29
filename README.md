@@ -1,5 +1,15 @@
-# Cv_Bootstrap
-Template resume: https://startbootstrap.com/previews/resume/
+# Curriculum Vitae
 
-CV Johnatan Garzón:
+## Tech Stack
+- HTML, CSS, Bootstrap
+- Javascript
+
+
+
+Link of the project:
 https://garzuzo.github.io/curriculum-vitae/
+
+## Author:
+- Johnatan Garzon
+
+Template used as a reference: https://startbootstrap.com/previews/resume/
